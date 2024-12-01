@@ -1,4 +1,4 @@
-## **HELLO EVERYONE! I AM PRASHANSA PANDEY👋**
+# **HELLO EVERYONE! I AM PRASHANSA PANDEY👋**
 
 
 ---
@@ -9,18 +9,18 @@ I am eager to contribute to innovative projects in these fields.
 
 
 
-👷‍♂️### **What I Do** - 
+## **👷‍♂️What I Do** - 
 **AI & ML Enthusiast**: I'm fascinated by the capabilities of AI and ML, and I constantly seek to deepen my understanding and skills in these areas through projects and research. - 
 **Web Development**: I enjoy creating dynamic and responsive websites. I am always eager to learn new technologies and frameworks to enhance my web development skills.
 
 
 
-👉### **Skills** - 
-- **Programming Languages**: Python, JavaScript, HTML, CSS .
-- **Tools**: Git, VS Code, Jupyter Notebook
+## **👉Skills** - 
+- ***Programming Languages***: Python, JavaScript, HTML, CSS .
+- ***Tools***: Git, VS Code, Jupyter Notebook
 
 
-🤝### **Get in Touch** 
+## 🤝**Get in Touch** 
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/prashansa-pandey-0412352a5 ) 
 - Email: [prashansa.pandey26@gmail.com]
 
