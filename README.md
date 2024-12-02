@@ -16,7 +16,7 @@ I am eager to contribute to innovative projects in these fields.
 
 
 ## **👉Skills** - 
-- ***Programming Languages***: Python, JavaScript, HTML, CSS .
+- ***Programming Languages***: C/C++ , Python , Java.
 - ***Tools***: Git, VS Code, Jupyter Notebook
 
 
