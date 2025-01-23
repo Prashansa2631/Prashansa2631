@@ -21,7 +21,7 @@ I am eager to contribute to innovative projects in these fields.
 
 
 ## 🤝**Get in Touch** 
-- LinkedIn: www.linkedin.com/in/prashansa-pandey-0412352a5  
+- LinkedIn: www.linkedin.com/in/prashansa-pandey/  
 - Email: [prashansa.pandey26@gmail.com]
 
 --- 
