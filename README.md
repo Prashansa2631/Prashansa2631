@@ -22,7 +22,7 @@ I am eager to contribute to innovative projects in these fields.
 
 ## 🤝**Get in Touch** 
 - LinkedIn: www.linkedin.com/in/prashansa-pandey/  
-- Email: [prashansa.pandey26@gmail.com]
+- Email: [prashansa pandey]
 
 --- 
 Feel free to visit my repositories and collaborate with me! I am open to recommendations and excited to connect with fellow enthusiasts and professionals. Let's create something amazing together!
